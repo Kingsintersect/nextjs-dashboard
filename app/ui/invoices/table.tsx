@@ -96,7 +96,7 @@ export default async function InvoicesTable({
                                         </div>
                                     </td>
                                     <td className="whitespace-nowrap px-3 py-3">
-                                        {invoice.email}
+                                        c
                                     </td>
                                     <td className="whitespace-nowrap px-3 py-3">
                                         {formatCurrency(invoice.amount)}
